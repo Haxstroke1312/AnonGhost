@@ -1,15 +1,20 @@
 #!/usr/bin/python
 #######################
-#  http://fb.com/ubaii.id.9  #
+#  http://instagram/Silent.anons  #
 #######################
 mess = """======================================================
-             Deface Script Creator        
-                        Ubaii ID.
+             Deface Script Creator 
+We Are AnonGHost
+We Are The Ghost That You Have Created
+#Allah #truth #MUslimSoldier
+follow instagram : @Silent_anons
+call me : S1L3N7       
+                   Expect US!!!!
 ======================================================"""
 
 print mess
-print "Created by Ubaii ID"
-title = raw_input("Judul title: ")
+print "Created S1L3N7"
+title = raw_input("Tajuk title: ")
 heading = raw_input("Hacked by: ")
 imagelink = raw_input("link gambar (tengah): ")
 bgimage = raw_input("link gambar (background): ")
@@ -125,6 +130,6 @@ fo.write(messagescript15)
 fo.write(messagescript16)
 
 print "Script Berhasil Di buat!"
-print "Kontak : fb.com/ubaii.id.9"
+print "Kontak : instagram.com/Silent.anons"
 
 fo.close()
