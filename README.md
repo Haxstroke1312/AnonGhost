@@ -2,7 +2,7 @@
 Script deface creator by S1L3N7
 follow my instagram @Silent_anons
 
-commad :
+command :
 
 git clone (link/url)
 ls
