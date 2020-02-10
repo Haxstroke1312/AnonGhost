@@ -1,6 +1,6 @@
 # script-deface-creator
 Script deface creator by S1L3N7
-follow my instagram @Silent_anons
+for any question contact my instagram @Silent_anons
 
 command :
 
